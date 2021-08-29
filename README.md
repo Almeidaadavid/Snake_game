@@ -14,4 +14,4 @@ Simple project of Snake Game
 
 <hr>
 
-by Antonio David Almeida Soares ✌
+by Antonio David Almeida Soares. ✌
